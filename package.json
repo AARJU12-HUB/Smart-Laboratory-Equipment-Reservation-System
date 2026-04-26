@@ -1,0 +1,14 @@
+{
+  "name": "lab-reservation-system",
+  "version": "1.0.0",
+  "description": "Laboratory Equipment Reservation System",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js",
+    "seed": "node server/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
